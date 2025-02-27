@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+ 
+.navbar{
+    height: 10vh;
+    width: 100%;
+    background-color: #d9ed92;
+}
+.nav-el{
+    display: inline-block;
+}
+.nav-el2{
+    display: inline-block;
+}
+.nav-el2 li{
+    list-style-type: none;
+}
